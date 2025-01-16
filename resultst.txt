@@ -1,0 +1,61 @@
+1060
+KL divergence
+D(man,woman): 0.8307430267189386
+D(woman,man): 0.9960425874991689
+Pearson
+stat: 0.6210760351624716
+p-value:4.3235183256045055e-114
+
+word_class: as
+401
+KL divergence
+D(man,woman): 0.7177166571507064
+D(woman,man): 1.0945812847321545
+Pearson
+stat: 0.3949815985029697
+p-value:2.009898956551353e-16
+
+word_class: an
+411
+KL divergence
+D(man,woman): 0.4277776917874323
+D(woman,man): 0.5543674935494266
+Pearson
+stat: 0.7929728453635757
+p-value:4.779063234381941e-90
+
+word_class: a
+654
+KL divergence
+D(man,woman): 1.2711757497541878
+D(woman,man): 1.43734894843078
+Pearson
+stat: 0.3066533883795279
+p-value:1.0469919183834685e-15
+
+word_class: boy
+767
+KL divergence
+D(man,woman): 0.9587741754950637
+D(woman,man): 1.1677665300717055
+Pearson
+stat: 0.6083707139945013
+p-value:7.803594577152846e-79
+
+word_class: man
+489
+KL divergence
+D(man,woman): 0.7001255251012858
+D(woman,man): 0.7618527423332688
+Pearson
+stat: 0.5256475392286564
+p-value:4.332063627599792e-36
+
+word_class: rest
+776
+KL divergence
+D(man,woman): 0.9016392951258134
+D(woman,man): 0.83543806332533
+Pearson
+stat: 0.5367226252594688
+p-value:4.161617401133172e-59

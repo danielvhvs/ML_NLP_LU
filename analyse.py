@@ -165,7 +165,7 @@ def filter_sentences_gender():
 
 if __name__=="__main__":
     all_sentences()
-    filter_sentences_ending()
-    filter_sentences_gender() # file with one sentence per line, top k word probabilities (number), output file name
+    # filter_sentences_ending()
+    # filter_sentences_gender() # file with one sentence per line, top k word probabilities (number), output file name
 
     # read_text()
